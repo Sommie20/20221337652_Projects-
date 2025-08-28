@@ -1,7 +1,7 @@
 # 20221337652_Projects-
 ## Group Members 
 ## Nnoruka Somtochukwu Joshua 20221337652
-## #Duru Obinna Franklin 20221331482
+## Duru Obinna Franklin 20221331482
 ## Ogbonna Paschal Chinemerem 20221331722
 ## Amaole Cletus Nzube 20221314642
 ## Nwachukwu Chetachi Chibuzor 20221355242
